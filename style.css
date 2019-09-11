@@ -1,1 +1,16 @@
+body {
+    background-image: url("/home/pi/Desktop/browserPractice/img/app-cellphone-cigarette-2447046.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 1400px 700px;
+  }
 
+
+h4 {
+    color: beige;
+}
+#buttonCss {
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
